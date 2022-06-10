@@ -10,4 +10,8 @@
 
 *Repo : * [https://github.com/FazzPy/FazzPython](FazzPython)<br>
 
-<img align="left" alt="SS" src="img/ss.PNG" />
+<img align="left" alt="SS" src="img/ss.PNG" /><br>
+
+*Not : Şirket Modu şirket bilgileriniz için ayrı bir koleksiyon açar ve oraya gizli şirket verilerinizi kaydedebilirsiniz.*<br>
+
+**Geliştirilmeye devam edecektir...**
