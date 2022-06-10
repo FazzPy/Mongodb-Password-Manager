@@ -8,7 +8,7 @@
 
 > MongoDB Veritabanı kullanımı, güvenliği ve şifreleme gibi konuları barındırdığım yada ekliyecek olduğum repo'ya göz atabilirsiniz.<br>
 
-*Repo : * [https://github.com/FazzPy/FazzPython](FazzPython)<br>
+*Repo :  [https://github.com/FazzPy/FazzPython](FazzPython)*<br>
 
 *Not : Şirket Modu şirket bilgileriniz için ayrı bir koleksiyon açar ve oraya gizli şirket verilerinizi kaydedebilirsiniz.*<br>
 
