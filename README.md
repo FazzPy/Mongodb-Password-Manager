@@ -9,3 +9,5 @@
 > MongoDB Veritabanı kullanımı, güvenliği ve şifreleme gibi konuları barındırdığım yada ekliyecek olduğum repo'ya göz atabilirsiniz.<br>
 
 *Repo : * [https://github.com/FazzPy/FazzPython](FazzPython)<br>
+
+<img align="left" alt="Barkod" src="img/ss.png" />
