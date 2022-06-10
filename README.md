@@ -1,4 +1,4 @@
-# Fazz | Python password wanager with MongoDB
+# Fazz | Python password manager with MongoDB
 ## Using :
 
 *1.* **Bir mongodb hesabı açın.**<br>
