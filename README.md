@@ -10,4 +10,4 @@
 
 *Repo : * [https://github.com/FazzPy/FazzPython](FazzPython)<br>
 
-<img align="left" alt="Barkod" src="img/ss.png" />
+<img align="left" alt="SS" src="img/ss.PNG" />
