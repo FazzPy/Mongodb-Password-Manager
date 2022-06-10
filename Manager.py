@@ -3,6 +3,7 @@ from colorama import Fore, init
 from random import *
 import string
 import rsa
+import getpass
 
 init(autoreset=True)
 
@@ -16,10 +17,10 @@ print(Fore.MAGENTA+"""
 """)
 print(" ")
 
-app_pw = "159753"   
+app_pw = "159753"
 login = input("$ Pin Code : ")
 giris1 = input("Username : ")
-giris2 = input("Password : ")
+giris2 = getpass.getpass("$ Password : ")
 
 def ekle():
     hesap = input("$ Başlık : ")
@@ -114,7 +115,7 @@ def sirket():
     print(Fore.GREEN+"Sadece Özel Şirket Hesapları!")
     print("                                       ")
 
-    print(Fore.BLACK+"1) Hesap ekle")
+    print(Fore.YELLOW+"1) Hesap ekle")
     print(Fore.BLUE+"2) Hesapları gör")
     print(Fore.CYAN+"3) Hesap güncelle")
     print(Fore.RED+"4) Hesap sil")
@@ -188,7 +189,7 @@ def sirket():
         print(Fore.GREEN+"Silme başarılı!")
         start()
     elif process == "5":
-        for i in accounts.find():
+        for i in sirketdb.find():
             print(i)
         start()
     elif process == "6":
@@ -226,6 +227,8 @@ def start():
         passwordg()
     elif process == "6":
         all_görüntüle()
+    elif process == "7":
+        sirket()
         
 
 if login == app_pw:
