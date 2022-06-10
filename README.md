@@ -1,2 +1,1 @@
-# Mongodb-Password-Manager
-Password manager with mongodb
+# Fazz | Python password wanager with MongoDB
